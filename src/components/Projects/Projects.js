@@ -2,7 +2,7 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ScrollToTop from "../ScrollToTop/ScrollToTop";
 import ProjectCard from "./ProjectCards";
-import Portfolio from "../../Assets/Projects/Portfolio.png";
+import Portfolio from "../../Assets/Projects/Portfolio.jpg";
 import Ecart from "../../Assets/Projects/boxing.webp";
 
 
