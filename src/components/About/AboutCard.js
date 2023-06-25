@@ -6,7 +6,7 @@ function AboutCard() {
   return (
     <Card className="quote-card-view ">
       <Card.Body>
-        <blockquote className="blockquote mb-0" data-aos="zoom-in">
+        <blockquote className="blockquote mb-0" data-aos="zoom-in" style={{ textAlign: "justify", color: "var(--clr-txt)" }}>
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="primary-header">Yasas Manujaya</span> from Akuressa, Matara, Sri Lanka. I am a Information Technology Undergraduate Student.
             <br />
