@@ -9,7 +9,7 @@ import ScrollToTop from "../ScrollToTop/ScrollToTop";
 pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjs.version}/pdf.worker.min.js`;
 
 const resumeLink =
-  "https://raw.githubusercontent.com/Yasas2000/My-Portfolio/0aa438b5241da466b91dd25ded550cc8e9fc41a1/src/Assets/Ekanayaka%20YM.pdf";
+  "https://raw.githubusercontent.com/Yasas2000/My-Portfolio/0aa438b5241da466b91dd25ded550cc8e9fc41a1/src/Assets/resume.pdf";
 
 function ResumeNew() {
   const [width, setWidth] = useState(1200);
