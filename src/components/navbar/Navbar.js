@@ -93,7 +93,15 @@ function NavBar() {
                 Projects
               </Nav.Link>
             </Nav.Item>
-
+            <Nav.Item>
+              <Nav.Link
+                as={Link}
+                to="/qualifications"
+                onClick={() => updateExpanded(false)}
+              >
+                Qualifications
+              </Nav.Link>
+            </Nav.Item>
             <Nav.Item>
               <Nav.Link
                 as={Link}

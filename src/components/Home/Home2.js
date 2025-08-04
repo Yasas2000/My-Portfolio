@@ -1,6 +1,6 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
-import myImg from "../../Assets/Avatar.jpg";
+import myImg from "../../Assets/image.jpeg";
 import Tilt from "react-parallax-tilt";
 import {
   AiFillGithub,
@@ -22,7 +22,7 @@ function Home2() {
             <p className="home-about-body" data-aos="fade-up">
               <br />
               I'm a <i className="primary-header">
-                IT Undergraduate Student
+                IT Undergraduate Student of University of Moratuwa Faculty of Information Technology
               </i>{" "}
               who loves solving problems and building apps.
               <br />
@@ -36,13 +36,13 @@ function Home2() {
               </i>
               <br />
               <br />I always apply my experience in developing products with{" "}
-              <i className="primary-header">Node.js</i> and Modern Javascript
+              <i className="primary-header">Node.js, MongoDb</i> and Modern Javascript
               Library and Framework like
               <i className="primary-header"> React.js and  Flutter </i>
               <br />
               <br />
               Currently expanding my portfolio by building more{" "}
-              <i className="primary-header">projects </i>projects that I can add
+              <i className="primary-header">projects </i> that I can add
               here.
             </p>
           </Col>
