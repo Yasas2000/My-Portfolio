@@ -7,6 +7,7 @@ import Ecart from "../../Assets/Projects/boxing.webp";
 import Mi from "../../Assets/Projects/mi.webp";
 import Cyber from "../../Assets/Projects/cyber.jpeg";
 import Emotion from "../../Assets/Projects/emotion.jpg";
+import Bus from "../../Assets/Projects/bus.png";
 
 
 import "./project.css";
@@ -81,7 +82,19 @@ incorporating GPT-4 Vision processing. This mediator allows clients and develope
 APIs that extract specific values from PDFs and various image formats based on a user-defined
 schema"
               ghLink="https://github.com/Yasas2000/micro-integrator.git"
-              //demoLink="https://rahuljha.tech/"
+            />
+          </Col>
+      
+        </Row>
+        <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
+          <Col md={6} lg={4} className="project-card">
+            <ProjectCard
+              imgPath={Bus}
+              title="Bus-Ease Intelligent Route & Seat Reservation System 2025"
+              description="Developed a web-based platform to streamline highway bus route searches and real-time seat
+reservations. The system provides multi-leg trip planning, live seat availability, secure bookings,
+and an admin panel for operators."
+              demoLink="https://bus-ease-frontend.vercel.app/dashboard"
             />
           </Col>
       
