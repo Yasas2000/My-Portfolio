@@ -12,7 +12,7 @@ function Qualification() {
           <QualificationCards
             degree="B.Sc. (Hons) in Information Technology"
             institution="Faculty of IT, University of Moratuwa, Sri Lanka"
-            results="Expected First Class Honours CGPA:3.83"
+            results="First Class Honours CGPA:3.82"
             description="Focused on algorithms, software development, and AI. Completed a final year project on machine learning models for real time social engineering attack detection."
             timeline="2021 - 2025"
           />
@@ -24,7 +24,7 @@ function Qualification() {
             institution="Richmond College, Galle"
             description="Physical Stream with A in Mathematics, B in Physics, and A in Chemistry."
             timeline="2017 - 2019"
-            results="Z Score: 1.72"
+            results="Z Score: 1.76"
           />
         </Col>
       </Row>
