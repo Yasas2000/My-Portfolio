@@ -8,7 +8,7 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0" data-aos="zoom-in" style={{ textAlign: "justify", color: "var(--clr-txt)" }}>
           <p style={{ textAlign: "justify" }}>
-            Hi Everyone, I am <span className="primary-header">Yasas Manujaya</span> from Akuressa, Matara, Sri Lanka. I am a Information Technology Undergraduate Student.
+            Hi Everyone, I am <span className="primary-header">Yasas Ekanayake</span> from Galle, Sri Lanka. I am a Information Technology Undergraduate Student.
             <br />
             <br />
             In addition to coding, here are some other things I enjoy doing!
