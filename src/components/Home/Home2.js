@@ -21,29 +21,45 @@ function Home2() {
             </h1>
             <p className="home-about-body" data-aos="fade-up">
               <br />
-              I'm a <i className="primary-header">
-                IT Undergraduate Student of University of Moratuwa Faculty of Information Technology
+              I'm an{" "}
+              <i className="primary-header">
+                IT Undergraduate at the University of Moratuwa, Faculty of
+                Information Technology
               </i>{" "}
-              who loves solving problems and building apps.
+              with hands-on experience in software engineering and AI-driven
+              applications.
               <br />
               <br />I am passionate about{" "}
-              <i className="primary-header">AI and Gaming Industry</i> and love to learn
-              new things.
+              <i className="primary-header">
+                Artificial Intelligence, NLP, and Intelligent Systems
+              </i>{" "}
+              and love building scalable solutions.
               <br />
-              <br />I am more interested in 
-              <i>
-                <i className="primary-header"> Mathematics and Algorithms .</i>
+              <br />I have strong interests in{" "}
+              <i className="primary-header">
+                Mathematics, Algorithms, and System Design
               </i>
-              <br />
-              <br />I always apply my experience in developing products with{" "}
-              <i className="primary-header">Node.js, MongoDb</i> and Modern Javascript
-              Library and Framework like
-              <i className="primary-header"> React.js and  Flutter </i>
+              , which I apply in my projects and research.
               <br />
               <br />
-              Currently expanding my portfolio by building more{" "}
-              <i className="primary-header">projects </i> that I can add
-              here.
+              I’ve worked on{" "}
+              <i className="primary-header">
+                AI-powered Mediators, VS Code Extensions, and NLP Projects
+              </i>{" "}
+              during my internship at WSO2 and through academic work.
+              <br />
+              <br />
+              Skilled in{" "}
+              <i className="primary-header">
+                Java, Python, Node.js, MongoDB
+              </i>{" "}
+              and modern frameworks like{" "}
+              <i className="primary-header">React.js and Flutter</i>.
+              <br />
+              <br />
+              Currently expanding my portfolio by developing more{" "}
+              <i className="primary-header">AI and full-stack projects</i> that
+              solve real-world problems.
             </p>
           </Col>
           <Col md={4} className="myAvtar">
@@ -88,7 +104,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="mailto:ymeka2000@gmail.com"
+                  href="mailto:yasasmanujayaekanayake@gmail.com"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -99,7 +115,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/yasas-manujaya-a0a962231?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BEZsXKS3HSD2hbMAOYAxJwA%3D%3D"
+                  href="https://www.linkedin.com/in/yasas-manujaya-ekanayaka-a0a962231/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
