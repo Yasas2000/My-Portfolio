@@ -8,6 +8,8 @@ import Mi from "../../Assets/Projects/mi.webp";
 import Cyber from "../../Assets/Projects/cyber.jpeg";
 import Emotion from "../../Assets/Projects/emotion.jpg";
 import Bus from "../../Assets/Projects/bus.png";
+import Todo from "../../Assets/Projects/todo.webp";
+import Resume from "../../Assets/Projects/resume.jpg";
 
 
 import "./project.css";
@@ -95,9 +97,31 @@ schema"
 reservations. The system provides multi-leg trip planning, live seat availability, secure bookings,
 and an admin panel for operators."
               demoLink="https://bus-ease-frontend.vercel.app/dashboard"
+              ghLink="https://drive.google.com/drive/folders/1MqJ0ZJGcPAzQ7x4q6v91RA1IJzkEmABH?usp=sharing"
             />
           </Col>
-      
+          <Col md={6} lg={4} className="project-card">
+            <ProjectCard
+              imgPath={Todo}
+              title="Full-Stack Todo Task Manager"
+              description="A production-ready full-stack web application for managing to-do tasks, built with Spring Boot, React, and PostgreSQL. Fully containerized with Docker for easy deployment."
+              ghLink="https://github.com/Yasas2000/todo-app"
+            />
+          </Col>
+          <Col md={6} lg={4} className="project-card">
+            <ProjectCard
+              imgPath={Resume}
+              title="AI-Powered Resume Search Chatbot"
+              description="Created an AI-Powered Resume Search Chatbot using Retrieval 
+              Augmented Generation (RAG) and NVIDIA NIM microservices to revolutionize candidate screening. 
+              The system uses NVIDIA NeMo Retriever for semantic embeddings and Llama 3.1 70B for natural language generation, 
+              enabling hiring managers to search resumes conversationally instead of using rigid keyword filters. Built with LangChain, 
+              ChromaDB vector database, and Streamlit, the application provides intelligent candidate matching with AI-generated explanations 
+              and one-click resume downloads."
+              demoLink="https://ai-resume-search-chatbot.streamlit.app/"
+              ghLink="https://github.com/Yasas2000/resume-chatbot"
+            />
+          </Col>
         </Row>
       </Container>
       <ScrollToTop />
